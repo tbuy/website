@@ -1,3 +1,3 @@
 
 
-####  真正js功底的测试题  http://javascript-puzzlers.herokuapp.com/
+####  真正检验js功底的测试题  http://javascript-puzzlers.herokuapp.com/
