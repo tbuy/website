@@ -1,3 +1,6 @@
 
+## 刷题网站
 
-####  真正检验js功底的测试题  http://javascript-puzzlers.herokuapp.com/
+#### js测试题  http://javascript-puzzlers.herokuapp.com/
+#### leetcode  https://leetcode-cn.com/
+#### codewars https://www.codewars.com/
