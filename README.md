@@ -34,7 +34,7 @@
 ## 论坛
 
 #### 技术文章 http://www.css88.com/
-#### 思否 ttps://segmentfault.com/
+#### 思否 https://segmentfault.com/
 #### 掘金 https://juejin.im/
 #### 文章 http://f2ex.cn/category/wan/
 
