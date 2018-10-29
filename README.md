@@ -4,6 +4,8 @@
 #### js测试题  http://javascript-puzzlers.herokuapp.com/
 #### leetcode  https://leetcode-cn.com/
 #### codewars https://www.codewars.com/
+#### 牛客网 https://www.nowcoder.com/
+#### 赛码网 http://www.acmcoder.com/index
 
 
 ## 作图
